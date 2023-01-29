@@ -25,7 +25,7 @@ SECRET_KEY = 'gz9r*vvh=vg4)!jk3gg95a6265qy@n7^55h6o^l##hi+fdn#7w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['maheswaran.k.student.saveetha.in']
 
 
 # Application definition
